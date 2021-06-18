@@ -12,5 +12,8 @@
     "url": "C:\\Users\\No4\\Documents\\GitHub\\hexlet-js"
   },
   "author": "me",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
